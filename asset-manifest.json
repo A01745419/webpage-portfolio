@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/webpage-portfolio/static/css/main.a28799b4.css",
-    "main.js": "/webpage-portfolio/static/js/main.36fbcfbd.js",
+    "main.js": "/webpage-portfolio/static/js/main.e634ab9e.js",
     "static/js/787.56fcebfa.chunk.js": "/webpage-portfolio/static/js/787.56fcebfa.chunk.js",
     "static/media/idiomas.jpg": "/webpage-portfolio/static/media/idiomas.f8bab25dca8b62ae5410.jpg",
     "static/media/github.png": "/webpage-portfolio/static/media/github.4bb497e598c121a691f7.png",
@@ -10,11 +10,11 @@
     "static/media/logo.svg": "/webpage-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/webpage-portfolio/index.html",
     "main.a28799b4.css.map": "/webpage-portfolio/static/css/main.a28799b4.css.map",
-    "main.36fbcfbd.js.map": "/webpage-portfolio/static/js/main.36fbcfbd.js.map",
+    "main.e634ab9e.js.map": "/webpage-portfolio/static/js/main.e634ab9e.js.map",
     "787.56fcebfa.chunk.js.map": "/webpage-portfolio/static/js/787.56fcebfa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a28799b4.css",
-    "static/js/main.36fbcfbd.js"
+    "static/js/main.e634ab9e.js"
   ]
 }
