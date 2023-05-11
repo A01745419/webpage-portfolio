@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/webpage-portfolio/static/css/main.9e413e41.css",
-    "main.js": "/webpage-portfolio/static/js/main.a848ece7.js",
+    "main.css": "/webpage-portfolio/static/css/main.77045b2e.css",
+    "main.js": "/webpage-portfolio/static/js/main.6be40318.js",
     "static/js/787.56fcebfa.chunk.js": "/webpage-portfolio/static/js/787.56fcebfa.chunk.js",
+    "static/media/idiomas.jpg": "/webpage-portfolio/static/media/idiomas.f8bab25dca8b62ae5410.jpg",
+    "static/media/coursera.png": "/webpage-portfolio/static/media/coursera.fab87f5a94f86b50a47a.png",
     "static/media/jolo.jpg": "/webpage-portfolio/static/media/jolo.3074427bcb25b6f25839.jpg",
     "static/media/logo.svg": "/webpage-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/webpage-portfolio/index.html",
-    "main.9e413e41.css.map": "/webpage-portfolio/static/css/main.9e413e41.css.map",
-    "main.a848ece7.js.map": "/webpage-portfolio/static/js/main.a848ece7.js.map",
+    "main.77045b2e.css.map": "/webpage-portfolio/static/css/main.77045b2e.css.map",
+    "main.6be40318.js.map": "/webpage-portfolio/static/js/main.6be40318.js.map",
     "787.56fcebfa.chunk.js.map": "/webpage-portfolio/static/js/787.56fcebfa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e413e41.css",
-    "static/js/main.a848ece7.js"
+    "static/css/main.77045b2e.css",
+    "static/js/main.6be40318.js"
   ]
 }
